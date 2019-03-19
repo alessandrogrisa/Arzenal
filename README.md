@@ -1,2 +1,4 @@
 # Arzenal
-This is an archive of tools used both in CTFs and pentest engagements
+===============
+This repository is just an archive of tools used both in CTF challenges.
+---------------

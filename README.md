@@ -1,4 +1,4 @@
-# ![https://www.shareicon.net/download/48x48/2017/05/09/885800_console_512x512.png](https://www.shareicon.net/download/48x48/2017/05/09/885800_console_512x512.png) Arzenal 
+# ![https://www.shareicon.net/download/32x32/2017/05/09/885800_console_512x512.png](https://www.shareicon.net/download/32x32/2017/05/09/885800_console_512x512.png) Arzenal 
 
 This repository is just an archive of tools used both in CTF challenges.
 

@@ -13,7 +13,7 @@ Information Gathering
 
 Web Services
 ---------------------
-* [JS Beutifier Online](https://www.cleancss.com/javascript-beautify/)
+* [JS Beautifier Online](https://www.cleancss.com/javascript-beautify/)
 
     A simple webb app that unminifies and beautifies js and html codes. It works very well, probably one of the best out there.
     It offers also many other services, such as formatters, encoders, hash generators and so on.

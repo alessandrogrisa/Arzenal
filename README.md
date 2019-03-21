@@ -17,3 +17,9 @@ Web Services
 
     A simple webb app that unminifies and beautifies js and html codes. It works very well, probably one of the best out there.
     It offers also many other services, such as formatters, encoders, hash generators and so on.
+
+Steganography
+---------------------
+* [Stegsolve](http://www.caesum.com/handbook/stego.htm)
+   
+    Java tool that tries different renditions of image in order to reveal something hidden. ([direct download](http://www.caesum.com/handbook/Stegsolve.jar)).

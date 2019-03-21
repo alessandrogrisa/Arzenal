@@ -8,5 +8,12 @@ Information Gathering
 ---------------------
 * [DNSEnum](https://github.com/fwaeytens/dnsenum)
 
-    multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.
+    Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.
     There is also a [bash version](https://github.com/theMiddleBlue/DNSenum) of the same tool, that works great and could be    combined with shodan.    
+
+Web Services
+---------------------
+* [JS Beutifier Online](https://www.cleancss.com/javascript-beautify/)
+
+    A simple webb app that unminifies and beautifies js and html codes. It works very well, probably one of the best out there.
+    It offers also many other services, such as formatters, encoders, hash generators and so on.

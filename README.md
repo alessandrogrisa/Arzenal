@@ -11,6 +11,12 @@ Information Gathering
     Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.
     There is also a [bash version](https://github.com/theMiddleBlue/DNSenum) of the same tool, that works great and could be    combined with shodan.    
 
+Discovery
+---------------------
+* [GoBuster](https://github.com/OJ/gobuster)
+
+    A directory, files and also DNS brute-forcer written in go. 
+
 Web Services
 ---------------------
 * [JS Beautifier Online](https://www.cleancss.com/javascript-beautify/)

@@ -29,3 +29,9 @@ Steganography
 * [Stegsolve](http://www.caesum.com/handbook/stego.htm)
    
     Java tool that tries different renditions of image in order to reveal something hidden. ([direct download](http://www.caesum.com/handbook/Stegsolve.jar)).
+
+MITM
+---------------------
+* [Responder](https://github.com/lgandx/Responder)
+
+    An excellent tool to abuse of LLMNR and NBT-NS weakness capturing victims NTMLv1/v2 hashes and relaying them for authentication to other systems. 

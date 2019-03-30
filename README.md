@@ -34,4 +34,4 @@ MITM
 ---------------------
 * [Responder](https://github.com/lgandx/Responder)
 
-    An excellent tool to abuse of LLMNR and NBT-NS weakness capturing victims NTMLv1/v2 hashes and relaying them for authentication to other systems. It comes with many useful tools as [*MultiRelay*](https://github.com/lgandx/Responder/blob/master/tools/MultiRelay.py).
+    An excellent tool to abuse of LLMNR and NBT-NS weakness capturing victims NTMLv1/v2 hashes and relaying them for authentication to other systems. It comes with many useful tools as [MultiRelay](https://github.com/lgandx/Responder/blob/master/tools/MultiRelay.py).

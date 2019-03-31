@@ -24,7 +24,7 @@ Web Services / Resources
     A simple webb app that unminifies and beautifies js and html codes. It works very well, probably one of the best out there.
     It offers also many other services, such as formatters, encoders, hash generators and so on.
 
-* [G0tmilk: Linux enumeration](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+* [G0tmi1k: Linux enumeration](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 
     This is a mixture of really useful commands to get information out of linux. It's just a **basic & rough guide**.
 

@@ -17,12 +17,25 @@ Discovery
 
     A directory, files and also DNS brute-forcer written in go. 
 
-Web Services
+Web Services / Resources
 ---------------------
 * [JS Beautifier Online](https://www.cleancss.com/javascript-beautify/)
 
     A simple webb app that unminifies and beautifies js and html codes. It works very well, probably one of the best out there.
     It offers also many other services, such as formatters, encoders, hash generators and so on.
+
+* [G0tmilk: Linux enumeration](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+
+    This is a mixture of really useful commands to get information out of linux. It's just a **basic & rough guide**.
+
+* [GTFOBins](https://gtfobins.github.io/)
+
+    GTFOBins is a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.
+    It contains legitimate functions that can help to escalate or maintain elevated privileges, transfer files, spawn shells adn facilitate the other post-exploitations tasks.
+    
+* [LOLBAS](https://lolbas-project.github.io/)
+
+    LOLBAS is a list of windows binaries, scripts and libraries that can be exploited by an attacker to bypass local security restrictions. It inspired GTFOBins!
 
 Steganography
 ---------------------

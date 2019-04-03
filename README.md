@@ -37,10 +37,6 @@ Steganography
     
 Web Services / Resources
 ---------------------
-* [JS Beautifier Online](https://www.cleancss.com/javascript-beautify/)
-
-    A simple web app that unminifies and beautifies js and html codes. It works very well, probably one of the best out there.
-    It offers also many other services, such as formatters, encoders, hash generators and so on.
 
 * [G0tmi1k: Linux enumeration](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 
@@ -50,7 +46,12 @@ Web Services / Resources
 
     GTFOBins is a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.
     It contains legitimate functions that can help to escalate or maintain elevated privileges, transfer files, spawn shells adn facilitate the other post-exploitations tasks.
-    
+
+* [JS Beautifier Online](https://www.cleancss.com/javascript-beautify/)
+
+    A simple web app that unminifies and beautifies js and html codes. It works very well, probably one of the best out there.
+    It offers also many other services, such as formatters, encoders, hash generators and so on.
+
 * [LOLBAS](https://lolbas-project.github.io/)
 
     LOLBAS is a list of windows binaries, scripts and libraries that can be exploited by an attacker to bypass local security restrictions. It inspired GTFOBins!

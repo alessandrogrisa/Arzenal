@@ -4,12 +4,11 @@
 
 --------------
 
-Information Gathering
+Defeating UAC
 ---------------------
-* [DNSEnum](https://github.com/fwaeytens/dnsenum)
+* [UACME](https://github.com/hfiref0x/UACME)
 
-    Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.
-    There is also a [bash version](https://github.com/theMiddleBlue/DNSenum) of the same tool, that works great and could be    combined with shodan.    
+    Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor
 
 Discovery
 ---------------------
@@ -17,6 +16,25 @@ Discovery
 
     A directory, files and also DNS brute-forcer written in go. 
 
+Information Gathering
+---------------------
+* [DNSEnum](https://github.com/fwaeytens/dnsenum)
+
+    Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.
+    There is also a [bash version](https://github.com/theMiddleBlue/DNSenum) of the same tool, that works great and could be    combined with shodan.    
+
+MITM
+---------------------
+* [Responder](https://github.com/lgandx/Responder)
+
+    An excellent tool to abuse of LLMNR and NBT-NS weakness capturing victims NTMLv1/v2 hashes and relaying them for authentication to other systems. It comes with many useful tools as [MultiRelay](https://github.com/lgandx/Responder/blob/master/tools/MultiRelay.py).
+    
+Steganography
+---------------------
+* [Stegsolve](http://www.caesum.com/handbook/stego.htm)
+   
+    Java tool that tries different renditions of image in order to reveal something hidden. ([direct download](http://www.caesum.com/handbook/Stegsolve.jar)).
+    
 Web Services / Resources
 ---------------------
 * [JS Beautifier Online](https://www.cleancss.com/javascript-beautify/)
@@ -36,21 +54,3 @@ Web Services / Resources
 * [LOLBAS](https://lolbas-project.github.io/)
 
     LOLBAS is a list of windows binaries, scripts and libraries that can be exploited by an attacker to bypass local security restrictions. It inspired GTFOBins!
-
-Steganography
----------------------
-* [Stegsolve](http://www.caesum.com/handbook/stego.htm)
-   
-    Java tool that tries different renditions of image in order to reveal something hidden. ([direct download](http://www.caesum.com/handbook/Stegsolve.jar)).
-
-MITM
----------------------
-* [Responder](https://github.com/lgandx/Responder)
-
-    An excellent tool to abuse of LLMNR and NBT-NS weakness capturing victims NTMLv1/v2 hashes and relaying them for authentication to other systems. It comes with many useful tools as [MultiRelay](https://github.com/lgandx/Responder/blob/master/tools/MultiRelay.py).
-    
-Defeating UAC
----------------------
-* [UACME](https://github.com/hfiref0x/UACME)
-
-    Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor

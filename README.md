@@ -55,3 +55,7 @@ Web Services / Resources
 * [LOLBAS](https://lolbas-project.github.io/)
 
     LOLBAS is a list of windows binaries, scripts and libraries that can be exploited by an attacker to bypass local security restrictions. It inspired GTFOBins!
+ 
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/)
+
+    A list of useful payloads and bypass tecniques. 

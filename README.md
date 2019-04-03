@@ -21,7 +21,7 @@ Web Services / Resources
 ---------------------
 * [JS Beautifier Online](https://www.cleancss.com/javascript-beautify/)
 
-    A simple webb app that unminifies and beautifies js and html codes. It works very well, probably one of the best out there.
+    A simple web app that unminifies and beautifies js and html codes. It works very well, probably one of the best out there.
     It offers also many other services, such as formatters, encoders, hash generators and so on.
 
 * [G0tmi1k: Linux enumeration](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
@@ -48,3 +48,9 @@ MITM
 * [Responder](https://github.com/lgandx/Responder)
 
     An excellent tool to abuse of LLMNR and NBT-NS weakness capturing victims NTMLv1/v2 hashes and relaying them for authentication to other systems. It comes with many useful tools as [MultiRelay](https://github.com/lgandx/Responder/blob/master/tools/MultiRelay.py).
+    
+Defeating UAC
+---------------------
+* [UACME](https://github.com/hfiref0x/UACME)
+
+    Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor

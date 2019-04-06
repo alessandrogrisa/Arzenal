@@ -38,6 +38,10 @@ Steganography
 Web Services / Resources
 ---------------------
 
+* [FactorDB](http://factordb.com)
+
+    This a tool used to store known factorizations for any number. It can be used to check for known factors, check for primality, calculate group orders and so on.
+
 * [G0tmi1k: Linux enumeration](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 
     This is a mixture of really useful commands to get information out of linux. It's just a **basic & rough guide**.

@@ -4,6 +4,12 @@
 
 --------------
 
+Binary
+---------------------
+* [Checksec](https://raw.githubusercontent.com/RobinDavid/checksec/master/checksec.sh)
+
+    Checksec is a bash script to check executable properties like (PIE, RELRO, PaX, Canaries, ASLR).
+
 Defeating UAC
 ---------------------
 * [UACME](https://github.com/hfiref0x/UACME)

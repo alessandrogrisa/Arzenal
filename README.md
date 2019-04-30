@@ -39,7 +39,7 @@ Powershell Utilities
 ----------------------
 * [Empire](https://github.com/EmpireProject/Empire)
 
-     <img align="left" width="100" height="100" src="http://www.powershellempire.com/wp-content/uploads/2015/07/empire_logo_black4.png"> Empire is a post-exploitation framework that implements the ability to run PowerShell agents without needing powershell.exe, rapidly deployable post-exploitation modules
+     <img align="right" width="100" height="100" src="http://www.powershellempire.com/wp-content/uploads/2015/07/empire_logo_black4.png"> Empire is a post-exploitation framework that implements the ability to run PowerShell agents without needing powershell.exe, rapidly deployable post-exploitation modules
 
 * [Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter)
 

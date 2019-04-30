@@ -37,6 +37,10 @@ MITM
     
 Powershell Utilities
 ----------------------
+* [Empire](https://github.com/EmpireProject/Empire)
+
+     ![http://www.powershellempire.com/wp-content/uploads/2015/07/empire_logo_black4.png] Empire is a post-exploitation framework that implements the ability to run PowerShell agents without needing powershell.exe, rapidly deployable post-exploitation modules
+
 * [Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter)
 
     A PowerShell v2.0+ compatible PowerShell remote download cradle generator and obfuscator.

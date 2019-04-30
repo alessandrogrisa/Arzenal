@@ -41,6 +41,10 @@ Powershell Utilities
 
     A PowerShell v2.0+ compatible PowerShell remote download cradle generator and obfuscator.
 
+* [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation)
+
+    A PowerShell v2.0+ compatible PowerShell command and script obfuscator
+
 Steganography
 ---------------------
 * [Stegsolve](http://www.caesum.com/handbook/stego.htm)

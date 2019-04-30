@@ -35,6 +35,12 @@ MITM
 
     An excellent tool to abuse of LLMNR and NBT-NS weakness capturing victims NTMLv1/v2 hashes and relaying them for authentication to other systems. It comes with many useful tools as [MultiRelay](https://github.com/lgandx/Responder/blob/master/tools/MultiRelay.py).
     
+Powershell Utilities
+----------------------
+* [Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter)
+
+    A PowerShell v2.0+ compatible PowerShell remote download cradle generator and obfuscator.
+
 Steganography
 ---------------------
 * [Stegsolve](http://www.caesum.com/handbook/stego.htm)

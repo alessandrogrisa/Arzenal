@@ -45,6 +45,18 @@ Powershell Utilities
 
     A PowerShell v2.0+ compatible PowerShell command and script obfuscator
 
+* [Nishang](https://github.com/samratashok/nishang)
+
+    Nishang is a framework and collection of scripts and payloads which enables usage of PowerShell for offensive security, penetration testing and red teaming. 
+
+* [Posh-SecMod](https://github.com/darkoperator/Posh-SecMod)
+
+    A collection of Powershell v3.0 post-exploitation moludes
+
+* [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
+
+    A collection of offensive Powershell modules
+
 Steganography
 ---------------------
 * [Stegsolve](http://www.caesum.com/handbook/stego.htm)

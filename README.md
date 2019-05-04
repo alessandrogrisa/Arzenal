@@ -22,6 +22,12 @@ Discovery
 
     A directory, files and also DNS brute-forcer written in go. 
 
+Enumeration
+----------------------
+* [Smtp-User-Enum](http://pentestmonkey.net/tools/user-enumeration/smtp-user-enum)
+
+    Username guessing tool primarily for use against the SMTP service
+
 Information Gathering
 ---------------------
 * [DNSEnum](https://github.com/fwaeytens/dnsenum)

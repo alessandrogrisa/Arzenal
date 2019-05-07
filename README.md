@@ -1,4 +1,4 @@
-# ![https://www.shareicon.net/download/32x32/2015/08/26/90999_red_512x512.png](https://www.shareicon.net/download/32x32/2015/08/26/90999_red_512x512.png) Arzenal 
+# Arzenal 
 
 *This repository is just an archive of tools used both in CTF challenges and daily use.*
 
@@ -45,7 +45,7 @@ Powershell Utilities
 ----------------------
 * [Empire](https://github.com/EmpireProject/Empire)
 
-     <img align="right" width="100" height="100" src="http://www.powershellempire.com/wp-content/uploads/2015/07/empire_logo_black4.png"> Empire is a post-exploitation framework that implements the ability to run PowerShell agents without needing powershell.exe, rapidly deployable post-exploitation modules
+     Empire is a post-exploitation framework that implements the ability to run PowerShell agents without needing powershell.exe, rapidly deployable post-exploitation modules
 
 * [Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter)
 

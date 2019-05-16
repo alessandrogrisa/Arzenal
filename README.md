@@ -35,6 +35,12 @@ Information Gathering
     Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.
     There is also a [bash version](https://github.com/theMiddleBlue/DNSenum) of the same tool, that works great and could be    combined with shodan.    
 
+Linux Post-Exploitation
+-----------------------
+* [Kernelpop](https://github.com/spencerdodd/kernelpop)
+
+    kernelpop is a framework for performing automated kernel vulnerability enumeration and exploitation on Linux and Mac.
+
 MITM
 ---------------------
 * [Responder](https://github.com/lgandx/Responder)

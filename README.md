@@ -107,3 +107,7 @@ Web Services / Resources
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/)
 
     A list of useful payloads and bypass tecniques. 
+    
+* [NPiet Online](https://www.bertnase.de/npiet/npiet-execute.php)
+
+    A simple web service to solve Piet programs. Piet is a programming language in which programs look like abstract paintings. 
